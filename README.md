@@ -19,6 +19,9 @@ primeiros códigos criamos váriaveis em Javascript e fizemos nosso primeiro "He
 
 Exemplos:
 
+
+4 - (Exercícios práticos): Nessa aula aprendemos como usar lógicamente o Javascript (usando o codepen como ferramenta) com operações matemáticas e criação de algoritmos.
+
 ```
 var nome = 'natalya'
 console.log(nome)
@@ -26,23 +29,35 @@ console.log(nome)
 
 ```
 let batata = 'doce'
+
 ```
 
 ```
 Eu = 'Matheus'
 ```
 
-
-
-
-4 - (Exercícios práticos): Nessa aula aprendemos como usar lógicamente o Javascript (usando o codepen como ferramenta) com operações matemáticas e criação de algoritmos.
-
-
-
 5 - (Exercícios de condicionais): Nessa aula aprendemos como usar funções condicionais em Javascript como: if, else if e else
 e colocando tbm em prática todos os conceitos.
-
+```
+const registro = prompt('Bom dia senhor, por favor me informe seu registro')
+if (registro == '1026') {
+  console.log('Acesso autorizado, pode esperar o atendimento.')}
+else {
+  console.log('Acesso negado, seu registro não foi encontrado.')
+};
+```
 
 
 6 - (Arrays): em nossa ultima aula de coding até agora aprendemos o conceito de Arrays e como eles se aplicam nos algoritmos
 e tivemos também uma breve prática.
+```
+const Navegador = prompt('Por qual físico você deseja aprender?');
+const nomes = ['Einstein', 'Newton', 'Oppenheimer'];
+
+if (nomes.includes(Navegador)) {
+    console.log('Ótima escolha!');
+} else {
+    console.log('Esse físico não foi encontrado no nosso banco de dados.');
+}
+```
+
