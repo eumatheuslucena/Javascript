@@ -24,11 +24,11 @@ console.log(nome)
 ```
 
 ```
-let batata = 'pure'
+let batata = 'doce'
 ```
 
 ```
-batata = 'batata-frita'
+Eu = 'Matheus'
 ```
 
 
