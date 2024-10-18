@@ -16,6 +16,7 @@ programadores.
 
 3 - (Javascript): Nesaa aula aprendemos qual é a função do Javascript nas aplicações web e outras áreas, além disso começamos nossos
 primeiros códigos criamos váriaveis em Javascript e fizemos nosso primeiro "Hello World".
+
 Exemplos:
 
 ```
