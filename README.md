@@ -21,12 +21,12 @@ Exemplos:
 
 
 4 - (Exercícios práticos): Nessa aula aprendemos como usar lógicamente o Javascript (usando o codepen como ferramenta) com operações matemáticas e criação de algoritmos.
-
+>
 ```
 var nome = 'natalya'
 console.log(nome)
 ```
-
+>
 ```
 let batata = 'doce'
 
@@ -42,6 +42,7 @@ e colocando tbm em prática todos os conceitos.
 const registro = prompt('Bom dia senhor, por favor me informe seu registro')
 if (registro == '1026') {
   console.log('Acesso autorizado, pode esperar o atendimento.')}
+
 else {
   console.log('Acesso negado, seu registro não foi encontrado.')
 };
@@ -56,7 +57,8 @@ const nomes = ['Einstein', 'Newton', 'Oppenheimer'];
 
 if (nomes.includes(Navegador)) {
     console.log('Ótima escolha!');
-} else {
+}
+else {
     console.log('Esse físico não foi encontrado no nosso banco de dados.');
 }
 ```
