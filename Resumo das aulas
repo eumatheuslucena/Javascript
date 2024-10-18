@@ -6,11 +6,12 @@ aprendemos conceitos sobre algoritmos, processos e fluxogramas e como são usado
 .
 2 - (Github): Nessa aula aprendemos como funciona e como utilizar a rede 'github' e como ele é importante para nossas carreiras de
 programadores.
-.
+. 
 .
 3 - (Javascript): Nesaa aula aprendemos qual é a função do Javascript nas aplicações web e outras áreas, além dissocomeçamos nossos
 primeiros códigos em Javascript e fizemos nosso primeiro "Hello World".
-.
+. >var nome = 'natalya'
+>console.log(nome)
 .
 4 - (Exercícios práticos): Nessa aula aprendemos como usar lógicamente o Javascript (usando o codepen como ferramenta) com operações matemáticas
 váriaveis e criação de algoritmos.
